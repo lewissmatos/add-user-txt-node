@@ -1,0 +1,15 @@
+{
+  "name": "usuarios-app",
+  "version": "0.0.1",
+  "description": "app para guardar usuarios en un txt",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Matos",
+  "license": "MIT"
+}
